@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YadiraPeredo/portfolio-YAPZ/f305c48b7f8f419c5c99933550e271a521408803/img/portadaRead.png" alt="Portada de Yadira Peredo">
-</div>
 
 <h1 align="center">¡Hola! Soy Yadira Aracely Peredo Zeballos 👋</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas apasionada por la tecnología y el desarrollo de software.</h3>
@@ -8,9 +5,6 @@
 <div align="center">
   <a href="mailto:yadira.peredo.30.3s4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="ENLACE_A_TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -75,29 +69,17 @@ Soy una entusiasta de la innovación digital, actualmente cursando el **tercer s
 ### 1. Sistema de Gestión de Supermercado
 <p>Sistema completo para la gestión de inventarios, usuarios y productos. Incluye interfaz de usuario estética, sistema de login seguro y conexión a base de datos con buenas prácticas de POO.</p>
 <p><strong>Tecnologías:</strong> Java, JavaFX, MySQL, JDBC, BCrypt.</p>
-<div align="left">
-  <a href="ENLACE_A_LA_DEMO_1"><strong>Ver Demo »</strong></a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="ENLACE_AL_REPOSITORIO_1"><strong>Ver Código »</strong></a>
-</div>
+
 
 ### 2. Algoritmo del Banquero
 <p>Implementación en lenguaje C del clásico algoritmo para evitar interbloqueos en sistemas operativos. Incluye una salida visual clara de matrices y análisis de estados seguros.</p>
 <p><strong>Tecnologías:</strong> C, Algoritmos, Sistemas Operativos.</p>
-<div align="left">
-  <a href="ENLACE_A_LA_DEMO_2"><strong>Ver Demo »</strong></a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="ENLACE_AL_REPOSITORIO_2"><strong>Ver Código »</strong></a>
-</div>
+
 
 ### 3. Módulos Académicos Diversos
 <p>Colección de proyectos académicos que abordan problemas de recursividad, manejo de estructuras de datos complejas, algoritmos de backtracking y optimización de código.</p>
 <p><strong>Tecnologías:</strong> Java, Python, Algoritmos, Estructuras de Datos.</p>
-<div align="left">
-  <a href="ENLACE_A_LA_DEMO_3"><strong>Ver Demo »</strong></a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="ENLACE_AL_REPOSITORIO_3"><strong>Ver Código »</strong></a>
-</div>
+
 
 ---
 
