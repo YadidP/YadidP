@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Sobre Mí
 
-Soy una entusiasta de la innovación digital, actualmente cursando el **tercer semestre** de **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón (UMSS)** en Cochabamba, Bolivia.
+Soy una entusiasta de la innovación digital, actualmente cursando la carrera de **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón (UMSS)** en Cochabamba, Bolivia.
 
 - 🔭 Me encanta transformar ideas en soluciones funcionales a través del código.
 - 🌱 Estoy en constante aprendizaje, explorando áreas como **Inteligencia Artificial**, **Ciberseguridad** y **Desarrollo Full-Stack**.
