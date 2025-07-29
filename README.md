@@ -66,20 +66,9 @@ Soy una entusiasta de la innovación digital, actualmente cursando la carrera de
 
 ## 📂 Proyectos Destacados
 
-### 1. Sistema de Gestión de Supermercado
+### Sistema de Gestión de Supermercado
 <p>Sistema completo para la gestión de inventarios, usuarios y productos. Incluye interfaz de usuario estética, sistema de login seguro y conexión a base de datos con buenas prácticas de POO.</p>
 <p><strong>Tecnologías:</strong> Java, JavaFX, MySQL, JDBC, BCrypt.</p>
-
-
-### 2. Algoritmo del Banquero
-<p>Implementación en lenguaje C del clásico algoritmo para evitar interbloqueos en sistemas operativos. Incluye una salida visual clara de matrices y análisis de estados seguros.</p>
-<p><strong>Tecnologías:</strong> C, Algoritmos, Sistemas Operativos.</p>
-
-
-### 3. Módulos Académicos Diversos
-<p>Colección de proyectos académicos que abordan problemas de recursividad, manejo de estructuras de datos complejas, algoritmos de backtracking y optimización de código.</p>
-<p><strong>Tecnologías:</strong> Java, Python, Algoritmos, Estructuras de Datos.</p>
-
 
 ---
 
