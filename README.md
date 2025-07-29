@@ -2,12 +2,6 @@
 <h1 align="center">¡Hola! Soy Yadira Aracely Peredo Zeballos 👋</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas apasionada por la tecnología y el desarrollo de software.</h3>
 
-<div align="center">
-  <a href="mailto:yadira.peredo.30.3s4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
 ---
 
 ## 👩‍💻 Sobre Mí
@@ -75,6 +69,11 @@ Soy una entusiasta de la innovación digital, actualmente cursando la carrera de
 ## 📫 Contacto
 
 <p>¡No dudes en contactarme! Estoy abierta a colaborar en proyectos interesantes y a conectar con otros apasionados por la tecnología.</p>
+<div align="center">
+  <a href="mailto:yadira.peredo.30.3s4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 <p align="center">
   <a href="mailto:yadira.peredo.30.3s4@gmail.com"><strong>yadira.peredo.30.3s4@gmail.com</strong></a>
 </p>
