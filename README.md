@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hola! Soy Yadira Aracely Peredo Zeballos 👋</h1>
+<h1 align="center">¡Hola! Soy Yadira Peredo👋</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas apasionada por la tecnología y el desarrollo de software.</h3>
 
 ---
