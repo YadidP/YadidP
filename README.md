@@ -64,16 +64,4 @@ Soy una entusiasta de la innovación digital, actualmente cursando la carrera de
 <p>Sistema completo para la gestión de inventarios, usuarios y productos. Incluye interfaz de usuario estética, sistema de login seguro y conexión a base de datos con buenas prácticas de POO.</p>
 <p><strong>Tecnologías:</strong> Java, JavaFX, MySQL, JDBC, BCrypt.</p>
 
----
 
-## 📫 Contacto
-
-<p>¡No dudes en contactarme! Estoy abierta a colaborar en proyectos interesantes y a conectar con otros apasionados por la tecnología.</p>
-<div align="center">
-  <a href="mailto:yadira.peredo.30.3s4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-<p align="center">
-  <a href="mailto:yadira.peredo.30.3s4@gmail.com"><strong>yadira.peredo.30.3s4@gmail.com</strong></a>
-</p>
