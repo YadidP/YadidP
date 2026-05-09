@@ -1,67 +1,80 @@
+<div align="center">
 
-<h1 align="center">¡Hola! Soy Yadira Peredo👋</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas apasionada por la tecnología y el desarrollo de software.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Yadira%20Peredo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ingeniería%20de%20Sistemas%20·%20UMSS%20·%20Cochabamba&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Apasionada+por+la+tecnología+✨;Transformando+ideas+en+código+🚀;Explorando+IA%2C+Ciberseguridad+y+Full-Stack+🌱;Siempre+aprendiendo%2C+siempre+creciendo+💡)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 👩‍💻 Sobre Mí
+## 👩‍💻 Sobre mí
 
-Soy una entusiasta de la innovación digital, actualmente cursando la carrera de **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón (UMSS)** en Cochabamba, Bolivia.
+Soy estudiante de **Ingeniería de Sistemas** en la **Universidad Mayor de San Simón (UMSS)**, Cochabamba, Bolivia. Me apasiona transformar ideas en soluciones funcionales a través del código.
 
-- 🔭 Me encanta transformar ideas en soluciones funcionales a través del código.
-- 🌱 Estoy en constante aprendizaje, explorando áreas como **Inteligencia Artificial**, **Ciberseguridad** y **Desarrollo Full-Stack**.
-- 💡 Uno de mis proyectos más importantes fue un **sistema de gestión para un supermercado**, aplicando programación orientada a objetos con Java y JavaFX.
-- 🎹 En mi tiempo libre, disfruto mucho de tocar el **piano**, una actividad que fomenta mi creatividad y disciplina.
+- 🔭 Me encanta construir proyectos que resuelvan problemas reales.
+- 🌱 En constante aprendizaje — siempre hay algo nuevo que explorar.
+- 🎹 En mi tiempo libre, toco el **piano**: creatividad y disciplina en un solo instrumento.
+- ⚡ Fun fact: creo que la mejor música y el mejor código tienen algo en común — estructura y alma.
 
 ---
 
 ## 🚀 Habilidades Técnicas
 
 ### Lenguajes de Programación
+
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### Bases de Datos
+
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Frameworks y Herramientas
+
 <p align="left">
-  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaFX-0769AA.svg?style=for-the-badge&logo=java&logoColor=white" alt="javafx"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
-  </a>
-    <a href="https://www.tinkercad.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TinkerCAD-13788C?style=for-the-badge&logo=tinkercad&logoColor=white" alt="tinkercad"/>
-  </a>
+  <img src="https://img.shields.io/badge/JavaFX-0769AA?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TinkerCAD-13788C?style=for-the-badge&logo=tinkercad&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Proyectos Destacados
+## 🌱 Explorando
 
-### Sistema de Gestión de Supermercado
-<p>Sistema completo para la gestión de inventarios, usuarios y productos. Incluye interfaz de usuario estética, sistema de login seguro y conexión a base de datos con buenas prácticas de POO.</p>
-<p><strong>Tecnologías:</strong> Java, JavaFX, MySQL, JDBC, BCrypt.</p>
+<div align="center">
 
+| 🤖 Inteligencia Artificial | 🛡️ Ciberseguridad | 🌐 Desarrollo Full-Stack |
+|:---:|:---:|:---:|
+| Machine Learning y modelos de lenguaje | Seguridad de sistemas y redes | Frontend + Backend + Bases de datos |
 
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+</div>
